@@ -1,0 +1,16 @@
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\bin\Debug\net5.0\Discrete_Processor_Simulator.exe
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\bin\Debug\net5.0\Discrete_Processor_Simulator.deps.json
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\bin\Debug\net5.0\Discrete_Processor_Simulator.runtimeconfig.json
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\bin\Debug\net5.0\Discrete_Processor_Simulator.runtimeconfig.dev.json
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\bin\Debug\net5.0\Discrete_Processor_Simulator.dll
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\bin\Debug\net5.0\ref\Discrete_Processor_Simulator.dll
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\bin\Debug\net5.0\Discrete_Processor_Simulator.pdb
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\obj\Debug\net5.0\Discrete_Processor_Simulator.csproj.AssemblyReference.cache
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\obj\Debug\net5.0\Discrete_Processor_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\obj\Debug\net5.0\Discrete_Processor_Simulator.AssemblyInfoInputs.cache
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\obj\Debug\net5.0\Discrete_Processor_Simulator.AssemblyInfo.cs
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\obj\Debug\net5.0\Discrete_Processor_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\obj\Debug\net5.0\Discrete_Processor_Simulator.dll
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\obj\Debug\net5.0\ref\Discrete_Processor_Simulator.dll
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\obj\Debug\net5.0\Discrete_Processor_Simulator.pdb
+C:\Users\17059\source\repos\Discrete_Processor_Simulator\Discrete_Processor_Simulator\obj\Debug\net5.0\Discrete_Processor_Simulator.genruntimeconfig.cache
